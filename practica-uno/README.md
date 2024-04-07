@@ -2,9 +2,9 @@
 ## Antes de empezar:
 Completa tus datos personales en la siguiente tabla:
 -------------------------
-| Nombres  | Apellidos  | CI   |
-| -------- | ---------- | ---- |
-| `nombre` | `apellido` | `ci` |
+|     Nombres       |    Apellidos   |      CI     |
+|     --------      |   ----------   |    ------   |
+| Araceli Jeancarla | Alberto Villca | 10065864 LP |
 
 ## Ejercicio 1
 Construye un servidor con el protocolo SOAP que permita a un cliente realizar las operaciones de suma, resta, multiplicación y división de dos números enteros.
